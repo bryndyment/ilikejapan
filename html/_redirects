@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://ilikejapan.netlify.com/* https://ilikejapan.com/:splat 301!
